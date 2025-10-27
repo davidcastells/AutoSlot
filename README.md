@@ -18,9 +18,21 @@ We create a PCB to replace the existing controller of SCX. It exposes some pins 
     <img src="HW/pcb_down.png" width="45%" alt="Down side of the PCB" style="margin-left: 5px;">
 </div>
 
+### External controller
+
+Students can create any system that connects to the previous shield.
+We provide a reference design based on ESP32 DevKit and an IMU .
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="HW/ESP32.jpg" width="25%" alt="Up side of the PCB" style="margin-right: 5px;">
+    <img src="HW/GY521.jpg" width="25%" alt="Down side of the PCB" style="margin-left: 5px;">
+</div>
+
 ## Partners
 
 We have received the support from Scale Competition Xtreme, S.L **[SCX](https://scx-brand.com/)**
+
+<img src="HW/SCX.png" width="25%" alt="SCX" style="margin-right: 5px;">
 
 
 
