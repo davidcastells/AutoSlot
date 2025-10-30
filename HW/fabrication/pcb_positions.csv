@@ -1,0 +1,21 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+131.925,-79.55,180.0,bottom,C1,,,C_0603_1608Metric,0.1uF,smt
+131.0,-61.5,90.0,bottom,C2,,,C_0603_1608Metric,0.1uF,smt
+129.0,-61.5,90.0,bottom,C3,,,C_0805_2012Metric,10uF,smt
+132.1,-77.75,180.0,bottom,C4,,,C_0805_2012Metric,10uF,smt
+143.5,-61.5,-90.0,top,C5,,,C_1210_3225Metric,47uF,smt
+142.5,-75.5,90.0,top,C6,,,C_1210_3225Metric,47uF,smt
+142.846475,-65.242337,90.0,bottom,D1,,,D_SOD-128,PMEG3050EP,smt
+124.4,-69.7,-90.0,bottom,D2,,,D_SOD-123,1N5819,smt
+144.970728,-60.386896,0.0,bottom,D3,,,D_SOD-128,PMEG3050EP,smt
+146.93816,-65.242337,90.0,bottom,D4,,,D_SOD-128,PMEG3050EP,smt
+144.5,-70.0,0.0,bottom,D6,,,D_SOD-128,PMEG3050EP,smt
+147.0,-78.54,180.0,top,J1,,,PinHeader_1x03_P2.54mm_Vertical,DC-DC (through hole DD4012SA),tht
+150.5,-62.34,0.0,top,J2,,,PinHeader_1x07_P2.54mm_Vertical,Conn_01x07,tht
+124.7,-66.45,0.0,top,J3,,,Solenoid Through Hole,Solenoid Through Hole,tht
+137.3,-63.85,90.0,top,J4,,,PinHeader_1x01_SX,T1,tht
+137.3,-75.55,0.0,top,J5,,,PinHeader_1x01_SX,T2,tht
+128.4125,-78.9,180.0,bottom,Q1,,,SOT-23,AO3400A,smt
+131.7625,-75.25,0.0,bottom,R1,,,R_1206_3216Metric,10k,smt
+126.928481,-76.003222,0.0,bottom,R2,,,R_1206_3216Metric,100,smt
+131.275,-68.2,90.0,bottom,U1,,,SSOP-24_5.3x8.2mm_P0.65mm,TB6612FNG - H-Bridge,smt
