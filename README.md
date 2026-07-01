@@ -29,7 +29,7 @@ Bill of materials
     <tr><td>Component</td><td>Image</td><td>Shopping Link</td></tr>
     <tr><td>5V Regulator</td><td><img src="HW/DD4012SA.png" width="25%" alt="DD4012SA" style="margin-right: 5px;"></td><td><A src="https://es.aliexpress.com/item/1005001597589461.html">https://es.aliexpress.com/item/1005001597589461.html</A></td></tr>
     <tr><td>ESP32</td><td><img src="HW/ESP32.jpg" width="25%" alt="ESP32" style="margin-right: 5px;"></td><td><A src="https://es.aliexpress.com/item/1005006336502350.html">https://es.aliexpress.com/item/1005006336502350.html</A></td></tr>
-    <tr><td>GY521</td><td><img src="HW/GY521.jpg" width="25%" alt="GY521" style="margin-left: 5px;"></td><td><A src="https://es.aliexpress.com/item/1005009534826428.html">https://es.aliexpress.com/item/1005009534826428.html</A></td></tr>      <tr><td>Electrolitic Capacitor</td><td><img src="HW/Capacitor.png" width="25%" alt="Capacitor" style="margin-left: 5px;"></td><td><A src="https://es.aliexpress.com/item/1005006533869944.html">https://es.aliexpress.com/item/1005006533869944.html</A></td></tr>
+    <tr><td>GY521</td><td><img src="HW/GY521.jpg" width="25%" alt="GY521" style="margin-left: 5px;"></td><td><A src="https://es.aliexpress.com/item/1005009148836096.html">https://es.aliexpress.com/item/1005009148836096.html</A></td></tr>      <tr><td>Electrolitic Capacitor</td><td><img src="HW/Capacitor.png" width="25%" alt="Capacitor" style="margin-left: 5px;"></td><td><A src="https://es.aliexpress.com/item/1005006533869944.html">https://es.aliexpress.com/item/1005006533869944.html</A></td></tr>
     
 </table>
 
