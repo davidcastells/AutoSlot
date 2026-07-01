@@ -34,7 +34,10 @@ Bill of materials
 </table>
 
 
-
+<div>
+    <p> Image of the build car</p>
+    <img width="50%" src="HW/TunedCar.png"\>
+</div>
 
 ## Partners
 
